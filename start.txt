@@ -1,3 +1,0 @@
-Test Git Quick Start demo
-new test text
-Trying again
